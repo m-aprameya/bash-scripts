@@ -1,5 +1,7 @@
 #!/bin/sh
 
+#Filename echo_in_colour.sh
+#works with sh not with bash
 #Printing coloured output in Bash seems to be fun!
 #The escape character with option -e is used to echo out with colour.
 #\e[1;30 sets the statement to black and \e[0m resets the colour back
