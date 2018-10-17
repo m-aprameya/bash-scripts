@@ -28,3 +28,5 @@ echo  "\e[1;44m  blue background \e[0m"
 echo  "\e[1;45m  magenta background \e[0m"
 echo  "\e[1;46m  cyan background \e[0m"
 echo  "\e[1;47m  white background \e[0m"
+
+exit 0

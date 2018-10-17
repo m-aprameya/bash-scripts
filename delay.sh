@@ -18,3 +18,5 @@ do
 	else exit 0;
 	fi
 done
+
+exit 0
